@@ -1,0 +1,13 @@
+#Hugo configuration
+title = "wqedf"
+baseURL = "https:\/\/qewrqwe.asdewq.qwe"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758166"
+subfolder = ""
+firstpartycookies = true
+cookiedomain = "asdewq.qwe"
